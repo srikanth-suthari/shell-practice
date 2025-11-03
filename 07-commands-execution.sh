@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #executing some commands in shell scripting
 

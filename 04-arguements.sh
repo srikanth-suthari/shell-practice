@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #Arguments in scripting
 

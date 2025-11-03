@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #variables in bash scripting
 #var_name=value

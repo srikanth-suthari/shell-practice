@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #reading user input from terminal using read function
 
